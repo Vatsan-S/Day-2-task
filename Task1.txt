@@ -1,0 +1,28 @@
+Difference between Document object and window object.
+
+Window Object.
+
+
+This is the global object  with global properties, which represents the browser.
+
+This is the fundamental part of Browser Object Model.
+
+BOM - it is an API of the browser that allows javascript to interact with the browser.
+
+Window object can be accessed with the syntax  - 'Window.document'
+
+Common properties of window objects are - 
+window.innerheight
+window.innerwidth
+
+
+
+Document Object
+
+
+Document object represents the webpage that is loaded in the browser.
+
+It has all the nodes(HTML elements) and objects that helps the programs to  change the structure, style and content.
+
+Document object is a part of window object.
+
